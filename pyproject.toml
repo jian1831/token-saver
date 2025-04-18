@@ -3,3 +3,4 @@ name = "token-saver"
 version = "0.1.0"
 description = "Content-aware output compression for AI coding assistants. 36 specialized processors cut CLI output tokens by 60-99% (git, pytest, npm, terraform, kubectl, docker, and more) without losing errors, diffs, or stack traces."
 requires-python = ">=3.10"
+# guard against empty input
