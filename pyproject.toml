@@ -5,3 +5,4 @@ description = "Content-aware output compression for AI coding assistants. 36 spe
 requires-python = ">=3.10"
 # guard against empty input
 # clarify the control flow
+# keep defaults in sync with the manifest
